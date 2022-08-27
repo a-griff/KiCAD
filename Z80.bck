@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z80_CPU-DIP
+D CPU, DIP40
+K Z80, CPU
+$ENDCMP
+#
+$CMP Z80_DMA-DIP
+D DMA, DIP40
+K Z80, DMA
+$ENDCMP
+#
+#End Doc Library
