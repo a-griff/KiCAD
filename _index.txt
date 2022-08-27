@@ -1,0 +1,1 @@
+DIP-40 & DIP-28 are standard 40pin and 28pin DIP footprints with pads that allow traces to route between them.
