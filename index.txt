@@ -1,1 +1,0 @@
-Z80 - Contains the symbols for Z80 CPU, DMA, CTC, PIO and SIO chips.  They use the DIP-40.kicad_mod & DIP-28.kicad_mod footprints found in 'Footprints'.
